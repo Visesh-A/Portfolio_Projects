@@ -15,4 +15,4 @@ This analysis will provide great insight to the stake holders to take right and 
 
 **Schema- Music Store Database:**
 
-<img width="594" alt="schema_diagram" src="https://github.com/Amlanjyotilaha/portfolio_projects/assets/103643953/da4017bc-10af-429c-9eb5-207569b178fe">
+<img width="594" alt="schema_diagram" src="Music Store Analysis SQL/music store data/schema_diagram.png">
