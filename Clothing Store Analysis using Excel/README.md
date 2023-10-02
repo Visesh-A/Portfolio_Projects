@@ -30,26 +30,25 @@ I crafted a dynamic and insightful report using Excel, incorporating a total of 
 
 **Analysis Performed for this project:**
 
-Investigated the correlation between order volume and sales, uncovering patterns that shed light on the store's performance over specific periods.
+✅Investigated the correlation between order volume and sales, uncovering patterns that shed light on the store's performance over specific periods.
 Sales: Men vs. Women 
 
-Delved into gender-based sales, identifying which gender plays a prominent role in contributing to the store's revenue. Explored potential preferences or trends within product categories.
+✅Delved into gender-based sales, identifying which gender plays a prominent role in contributing to the store's revenue. Explored potential preferences or trends within product categories.
 Sales: Age & Gender 
 
-Analyzed the intersection of age and gender in sales, seeking insights into customer demographics and purchasing behaviors.
+✅Analyzed the intersection of age and gender in sales, seeking insights into customer demographics and purchasing behaviors.
 Order Status 
 
-Examined the distribution of order statuses, offering valuable insights into the efficiency of order processing and fulfillment.
-Top 5 States
+✅Examined the distribution of order statuses, offering valuable insights into the efficiency of order processing and fulfillment.
 
-Identified the top-performing states, enabling a regional analysis to understand factors influencing sales success in specific areas.
+✅Identified the top-performing states, enabling a regional analysis to understand factors influencing sales success in specific areas.
 Order Channels 
 
-Explored the contribution of different channels to overall orders, providing strategic insights for marketing and sales efforts.
+✅Explored the contribution of different channels to overall orders, providing strategic insights for marketing and sales efforts.
 
 **User-Friendly Filtering:**
 
-Enhanced user experience with the addition of three slicers—Category, Channel, and Month—allowing effortless data filtering for a more personalized analysis.
+✅Enhanced user experience with the addition of three slicers—Category, Channel, and Month—allowing effortless data filtering for a more personalized analysis.
 
 Tools:
 
