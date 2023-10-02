@@ -49,6 +49,9 @@ Topics covered in this Power BI Project:
 **Tools Used:**
 
 PowerBI
+
 Power Query
+
 DAX
+
 Filters and Slicers
