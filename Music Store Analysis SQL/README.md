@@ -11,7 +11,7 @@ This analysis will provide great insight to the stake holders to take right and 
 **Database & Tools:**
 1. Postgre SQL (PgAdmin4)
 2. SQL Server Management Studio (Microsoft SQL Server)
-3. Microsoft Excel & Microsoft Powerpoint 
+3. Microsoft Excel 
 
 **Schema- Music Store Database:**
 
