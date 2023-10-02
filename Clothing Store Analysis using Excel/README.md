@@ -26,6 +26,8 @@ https://github.com/Visesh-A/Portfolio_Projects/assets/124649657/cd61bb40-25f8-45
 
 I crafted a dynamic and insightful report using Excel, incorporating a total of six charts to visually represent key data trends. Three of these charts are dynamic donut charts, adding a touch of interactivity, while the other three leverage pivot tables for a deeper dive into the numbers, resulting in a comprehensive report across six individual sheets
 
+
+
 **Analysis Performed for this project:**
 
 Investigated the correlation between order volume and sales, uncovering patterns that shed light on the store's performance over specific periods.
@@ -56,4 +58,3 @@ Microsoft Excel
 Slicers
 
 Pivot Table
-##  New
