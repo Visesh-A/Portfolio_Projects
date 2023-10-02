@@ -47,6 +47,7 @@ Topics covered in this Power BI Project:
 ✅ Insights from Dashboard: Extract actionable insights from your Power BI dashboard. Discover techniques to identify trends, patterns, and outliers, and leverage these insights to make informed decisions that drive business success.
 
 **Tools Used:**
+
 PowerBI
 Power Query
 DAX
