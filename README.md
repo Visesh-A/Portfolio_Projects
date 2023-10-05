@@ -37,3 +37,13 @@ This analysis will provide great insight to the stake holders to take right and 
 **Tools:**
 1. Postgre SQL (PgAdmin4)
 2. SQL Server Management Studio
+
+# Python_Diwali_Sales_Analysis
+
+[Project Link](https://github.com/Visesh-A/Portfolio_Projects/tree/main/Python_Diwali_Sales_Analysis-main)
+
+Utilized data visualization techniques topresent findings effectively.
+Used EDA techniques to analyze Diwali sales data and identify key trends, such as increased sales of certain product categories and regions.
+Quantified the impact of these trends, identifying a 10% increase in sales of Diwali gifts in the North region.
+Created visually appealing charts and graphs to present findings to stakeholders.
+
